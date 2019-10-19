@@ -224,3 +224,8 @@ article p{
 	 	grid-template-columns: 150px 150px;
 	 }
 }
+@media (max-width: 500px){
+	header{
+		padding: 100px 0 100px 0;
+	}
+}
