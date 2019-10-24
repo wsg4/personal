@@ -172,6 +172,7 @@ footer h2{
 }
 .resume{
 	display:grid;
+	background-color: #eee;
 	margin-top:20px;
 	grid-template-columns: [content-start] 1fr [content-end];
 	grid-template-rows: auto [content-start] auto [content-end];
