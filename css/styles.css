@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
 }
 .dwn-btn {
   	display:grid;
- 	grid-template-columns: 175px 175px;
+ 	grid-template-columns: 175px;
  	height: 100px;
  	grid-gap: 1em;
  	justify-content: center;
