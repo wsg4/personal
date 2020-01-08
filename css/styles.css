@@ -75,6 +75,11 @@ nav a{
 	padding: 10px;
 	color: #0bbf8c;
 }
+
+nav a:active{
+	background-color: #0bbf8c;
+	color: white;
+}
 .nav{
 	position: absolute;
 	top: 15px;
