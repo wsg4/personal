@@ -75,7 +75,9 @@ nav a{
 	padding: 10px;
 	color: #0bbf8c;
 }
-
+nav a:hover{
+	color:#088C67;
+}
 nav a:active{
 	background-color: #0bbf8c;
 	color: white;
@@ -87,6 +89,7 @@ nav a:active{
 	text-align: right;
 	letter-spacing: 1px;
 }
+
 /*header
 ------------------------*/
 header {
