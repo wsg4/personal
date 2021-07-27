@@ -168,6 +168,9 @@ footer h2{
 	text-decoration: none;
 	color: #444;
 }
+.proj a:hover {
+	color: black;
+}
 .resume{
 	display:grid;
 	margin-top:20px;
