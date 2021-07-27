@@ -169,7 +169,7 @@ footer h2{
 	color: #444;
 }
 .proj a:hover {
-	color: black;
+	background-color: #EFF0F0;
 }
 .resume{
 	display:grid;
