@@ -73,14 +73,14 @@ nav {
 nav a{
 	text-decoration: none;
 	padding: 10px;
-	color: #0bbf8c;
+	color: #195AFF;
 }
 nav a:hover{
-	background-color: #0CD89F;
+	background-color: #195AFF;
 	color: white;
 }
 nav a:active{
-	background-color: #0bbf8c;
+	background-color: #195AFF;
 	color: white;
 }
 .nav{
