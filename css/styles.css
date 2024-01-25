@@ -10,6 +10,14 @@ html {
 
 /*global styles
 ------------------------*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+	
+
 
 body {
 	line-height:1.7;
@@ -19,7 +27,7 @@ body {
 	font-weight: 300;
 	letter-spacing: 1px;
 	margin:0;
-	background: #f7f7f7;
+	background: #081b29;
 }
 h1, h2, h3, h4 {
 	font-family: 'Open Sans', arial;
@@ -62,6 +70,7 @@ h1, h2, h3, h4 {
 .dwn-btn i{
 	padding-right: 10px;
 }
+
 /*navigation
 ------------------------*/
 nav {
